@@ -1,0 +1,54 @@
+.sponsor {
+    order: 2;
+    display: flex;
+    height: auto;
+    padding: 12.875rem 0 8.72681rem 0;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5rem;
+    background: linear-gradient(180deg, #000 0%, #EEE 99.99%, #000 100%);
+}
+
+#iai {
+    width: 7rem;
+    height: 7rem;
+    background: url("logos/UET-AI 1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#oraichain {
+    width: 14.75rem;
+    height: 10rem;
+    background: url("logos/orainchain.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#smartosc {
+    width: 12.1875rem;
+    height: 4.2165rem;
+    margin: 0;
+    background: url("logos/osc.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#gem {
+    margin: 0;
+    width: 10.0625rem;
+    height: 8.39819rem;
+    background: url("logos/gemc.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#hblab {
+    width: 13rem;
+    height: 4rem;
+    background: url("logos/hbl.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
